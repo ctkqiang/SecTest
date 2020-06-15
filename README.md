@@ -1,2 +1,2 @@
 # SecTest
-Phishing + Malware SecTest for Corrata Security.
+Phishing + Malware SecTest for Security.
